@@ -150,8 +150,10 @@ button {
   margin: 0 auto;
 }
 .stream-link__footer {
+  width: 1050px;
+  margin: 0 auto;
   color: white;
-  margin-top: 70px;
+  margin-top: 30px;
   display: flex;
   justify-content: space-between;
   align-items: center;
